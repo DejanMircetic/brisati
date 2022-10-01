@@ -4,5 +4,4 @@ pisanje iz R-a
 
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-
-2222222222222222222222222222
+33333
